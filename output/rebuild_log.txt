@@ -1,0 +1,70 @@
+> /usr/bin/python3 /home/albaloshi/Desktop/IELTS_Complete_Guid/scripts/merge_book.py
+Merged 206 files → /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery.md
+Approximate characters: 14,045,095
+> pandoc /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery.md --from=markdown+pipe_tables+fenced_code_blocks-yaml_metadata_block --toc --toc-depth=3 --resource-path /home/albaloshi/Desktop/IELTS_Complete_Guid --metadata-file /home/albaloshi/Desktop/IELTS_Complete_Guid/assets/metadata.yaml -o /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery.docx
+> pandoc /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery.md --from=markdown+pipe_tables+fenced_code_blocks-yaml_metadata_block --toc --toc-depth=3 --resource-path /home/albaloshi/Desktop/IELTS_Complete_Guid --metadata-file /home/albaloshi/Desktop/IELTS_Complete_Guid/assets/metadata.yaml -o /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery.epub
+> pandoc /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery.md --from=markdown+pipe_tables+fenced_code_blocks-yaml_metadata_block --toc --toc-depth=3 --resource-path /home/albaloshi/Desktop/IELTS_Complete_Guid --metadata-file /home/albaloshi/Desktop/IELTS_Complete_Guid/assets/metadata.yaml -o /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery.html --css=/home/albaloshi/Desktop/IELTS_Complete_Guid/assets/book.css --standalone -V lang=en
+Merged 53 → Ultimate_IELTS_Mastery_Vol1_Front_Grammar.md
+> pandoc /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol1_Front_Grammar.md --from=markdown+pipe_tables+fenced_code_blocks-yaml_metadata_block --toc --toc-depth=3 --resource-path /home/albaloshi/Desktop/IELTS_Complete_Guid --metadata-file /home/albaloshi/Desktop/IELTS_Complete_Guid/assets/metadata.yaml -o /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol1_Front_Grammar.docx
+> pandoc /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol1_Front_Grammar.md --from=markdown+pipe_tables+fenced_code_blocks-yaml_metadata_block --toc --toc-depth=3 --resource-path /home/albaloshi/Desktop/IELTS_Complete_Guid --metadata-file /home/albaloshi/Desktop/IELTS_Complete_Guid/assets/metadata.yaml -o /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol1_Front_Grammar.epub
+> pandoc /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol1_Front_Grammar.md --from=markdown+pipe_tables+fenced_code_blocks-yaml_metadata_block --toc --toc-depth=3 --resource-path /home/albaloshi/Desktop/IELTS_Complete_Guid --metadata-file /home/albaloshi/Desktop/IELTS_Complete_Guid/assets/metadata.yaml -o /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol1_Front_Grammar.html --css=/home/albaloshi/Desktop/IELTS_Complete_Guid/assets/book.css --standalone -V lang=en
+WeasyPrint Vol1_Front_Grammar...
+> /usr/bin/python3 -m weasyprint /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol1_Front_Grammar.html /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol1_Front_Grammar.pdf
+WARNING: Ignored `gap: min(4vw, 1.5em)` at 6:32, invalid value.
+WARNING: Ignored `overflow-x: auto` at 7:28, unknown property.
+WARNING: Ignored `overflow-x: auto` at 143:3, unknown property.
+WARNING: Ignored `writing-mode: vertical-rl` at 293:3, unknown property.
+WARNING: Ignored `text-orientation: mixed` at 294:3, unknown property.
+ERROR: Failed to load image at 'file:///home/albaloshi/Desktop/IELTS_Complete_Guid/output/images/front_cover_print_300dpi.png': URLError: <urlopen error [Errno 2] No such file or directory: '/home/albaloshi/Desktop/IELTS_Complete_Guid/output/images/front_cover_print_300dpi.png'>
+Merged 52 → Ultimate_IELTS_Mastery_Vol3_Skills.md
+> pandoc /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol3_Skills.md --from=markdown+pipe_tables+fenced_code_blocks-yaml_metadata_block --toc --toc-depth=3 --resource-path /home/albaloshi/Desktop/IELTS_Complete_Guid --metadata-file /home/albaloshi/Desktop/IELTS_Complete_Guid/assets/metadata.yaml -o /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol3_Skills.docx
+> pandoc /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol3_Skills.md --from=markdown+pipe_tables+fenced_code_blocks-yaml_metadata_block --toc --toc-depth=3 --resource-path /home/albaloshi/Desktop/IELTS_Complete_Guid --metadata-file /home/albaloshi/Desktop/IELTS_Complete_Guid/assets/metadata.yaml -o /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol3_Skills.epub
+> pandoc /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol3_Skills.md --from=markdown+pipe_tables+fenced_code_blocks-yaml_metadata_block --toc --toc-depth=3 --resource-path /home/albaloshi/Desktop/IELTS_Complete_Guid --metadata-file /home/albaloshi/Desktop/IELTS_Complete_Guid/assets/metadata.yaml -o /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol3_Skills.html --css=/home/albaloshi/Desktop/IELTS_Complete_Guid/assets/book.css --standalone -V lang=en
+WeasyPrint Vol3_Skills...
+> /usr/bin/python3 -m weasyprint /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol3_Skills.html /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol3_Skills.pdf
+WARNING: Ignored `gap: min(4vw, 1.5em)` at 6:32, invalid value.
+WARNING: Ignored `overflow-x: auto` at 7:28, unknown property.
+WARNING: Ignored `overflow-x: auto` at 143:3, unknown property.
+WARNING: Ignored `writing-mode: vertical-rl` at 293:3, unknown property.
+WARNING: Ignored `text-orientation: mixed` at 294:3, unknown property.
+Merged 74 → Ultimate_IELTS_Mastery_Vol4_Practice_Appendices.md
+> pandoc /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol4_Practice_Appendices.md --from=markdown+pipe_tables+fenced_code_blocks-yaml_metadata_block --toc --toc-depth=3 --resource-path /home/albaloshi/Desktop/IELTS_Complete_Guid --metadata-file /home/albaloshi/Desktop/IELTS_Complete_Guid/assets/metadata.yaml -o /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol4_Practice_Appendices.docx
+> pandoc /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol4_Practice_Appendices.md --from=markdown+pipe_tables+fenced_code_blocks-yaml_metadata_block --toc --toc-depth=3 --resource-path /home/albaloshi/Desktop/IELTS_Complete_Guid --metadata-file /home/albaloshi/Desktop/IELTS_Complete_Guid/assets/metadata.yaml -o /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol4_Practice_Appendices.epub
+> pandoc /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol4_Practice_Appendices.md --from=markdown+pipe_tables+fenced_code_blocks-yaml_metadata_block --toc --toc-depth=3 --resource-path /home/albaloshi/Desktop/IELTS_Complete_Guid --metadata-file /home/albaloshi/Desktop/IELTS_Complete_Guid/assets/metadata.yaml -o /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol4_Practice_Appendices.html --css=/home/albaloshi/Desktop/IELTS_Complete_Guid/assets/book.css --standalone -V lang=en
+WeasyPrint Vol4_Practice_Appendices...
+> /usr/bin/python3 -m weasyprint /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol4_Practice_Appendices.html /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol4_Practice_Appendices.pdf
+WARNING: Ignored `gap: min(4vw, 1.5em)` at 6:32, invalid value.
+WARNING: Ignored `overflow-x: auto` at 7:28, unknown property.
+WARNING: Ignored `overflow-x: auto` at 143:3, unknown property.
+WARNING: Ignored `writing-mode: vertical-rl` at 293:3, unknown property.
+WARNING: Ignored `text-orientation: mixed` at 294:3, unknown property.
+> pandoc /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol2_Vocabulary_Part1.md --from=markdown+pipe_tables+fenced_code_blocks-yaml_metadata_block --toc --toc-depth=3 --resource-path /home/albaloshi/Desktop/IELTS_Complete_Guid --metadata-file /home/albaloshi/Desktop/IELTS_Complete_Guid/assets/metadata.yaml -o /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol2_Vocabulary_Part1.docx
+> pandoc /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol2_Vocabulary_Part1.md --from=markdown+pipe_tables+fenced_code_blocks-yaml_metadata_block --toc --toc-depth=3 --resource-path /home/albaloshi/Desktop/IELTS_Complete_Guid --metadata-file /home/albaloshi/Desktop/IELTS_Complete_Guid/assets/metadata.yaml -o /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol2_Vocabulary_Part1.epub
+> pandoc /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol2_Vocabulary_Part1.md --from=markdown+pipe_tables+fenced_code_blocks-yaml_metadata_block --toc --toc-depth=3 --resource-path /home/albaloshi/Desktop/IELTS_Complete_Guid --metadata-file /home/albaloshi/Desktop/IELTS_Complete_Guid/assets/metadata.yaml -o /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol2_Vocabulary_Part1.html --css=/home/albaloshi/Desktop/IELTS_Complete_Guid/assets/book.css --standalone -V lang=en
+WeasyPrint Vol2_Vocabulary_Part1...
+> /usr/bin/python3 -m weasyprint /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol2_Vocabulary_Part1.html /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol2_Vocabulary_Part1.pdf
+WARNING: Ignored `gap: min(4vw, 1.5em)` at 6:32, invalid value.
+WARNING: Ignored `overflow-x: auto` at 7:28, unknown property.
+WARNING: Ignored `overflow-x: auto` at 143:3, unknown property.
+WARNING: Ignored `writing-mode: vertical-rl` at 293:3, unknown property.
+WARNING: Ignored `text-orientation: mixed` at 294:3, unknown property.
+> pandoc /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol2_Vocabulary_Part2.md --from=markdown+pipe_tables+fenced_code_blocks-yaml_metadata_block --toc --toc-depth=3 --resource-path /home/albaloshi/Desktop/IELTS_Complete_Guid --metadata-file /home/albaloshi/Desktop/IELTS_Complete_Guid/assets/metadata.yaml -o /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol2_Vocabulary_Part2.docx
+> pandoc /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol2_Vocabulary_Part2.md --from=markdown+pipe_tables+fenced_code_blocks-yaml_metadata_block --toc --toc-depth=3 --resource-path /home/albaloshi/Desktop/IELTS_Complete_Guid --metadata-file /home/albaloshi/Desktop/IELTS_Complete_Guid/assets/metadata.yaml -o /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol2_Vocabulary_Part2.epub
+> pandoc /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol2_Vocabulary_Part2.md --from=markdown+pipe_tables+fenced_code_blocks-yaml_metadata_block --toc --toc-depth=3 --resource-path /home/albaloshi/Desktop/IELTS_Complete_Guid --metadata-file /home/albaloshi/Desktop/IELTS_Complete_Guid/assets/metadata.yaml -o /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol2_Vocabulary_Part2.html --css=/home/albaloshi/Desktop/IELTS_Complete_Guid/assets/book.css --standalone -V lang=en
+WeasyPrint Vol2_Vocabulary_Part2...
+> /usr/bin/python3 -m weasyprint /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol2_Vocabulary_Part2.html /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol2_Vocabulary_Part2.pdf
+WARNING: Ignored `gap: min(4vw, 1.5em)` at 6:32, invalid value.
+WARNING: Ignored `overflow-x: auto` at 7:28, unknown property.
+WARNING: Ignored `overflow-x: auto` at 143:3, unknown property.
+WARNING: Ignored `writing-mode: vertical-rl` at 293:3, unknown property.
+WARNING: Ignored `text-orientation: mixed` at 294:3, unknown property.
+> pandoc /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol2_Vocabulary_Part3.md --from=markdown+pipe_tables+fenced_code_blocks-yaml_metadata_block --toc --toc-depth=3 --resource-path /home/albaloshi/Desktop/IELTS_Complete_Guid --metadata-file /home/albaloshi/Desktop/IELTS_Complete_Guid/assets/metadata.yaml -o /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol2_Vocabulary_Part3.docx
+> pandoc /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol2_Vocabulary_Part3.md --from=markdown+pipe_tables+fenced_code_blocks-yaml_metadata_block --toc --toc-depth=3 --resource-path /home/albaloshi/Desktop/IELTS_Complete_Guid --metadata-file /home/albaloshi/Desktop/IELTS_Complete_Guid/assets/metadata.yaml -o /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol2_Vocabulary_Part3.epub
+> pandoc /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol2_Vocabulary_Part3.md --from=markdown+pipe_tables+fenced_code_blocks-yaml_metadata_block --toc --toc-depth=3 --resource-path /home/albaloshi/Desktop/IELTS_Complete_Guid --metadata-file /home/albaloshi/Desktop/IELTS_Complete_Guid/assets/metadata.yaml -o /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol2_Vocabulary_Part3.html --css=/home/albaloshi/Desktop/IELTS_Complete_Guid/assets/book.css --standalone -V lang=en
+WeasyPrint Vol2_Vocabulary_Part3...
+> /usr/bin/python3 -m weasyprint /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol2_Vocabulary_Part3.html /home/albaloshi/Desktop/IELTS_Complete_Guid/output/Ultimate_IELTS_Mastery_Vol2_Vocabulary_Part3.pdf
+WARNING: Ignored `gap: min(4vw, 1.5em)` at 6:32, invalid value.
+WARNING: Ignored `overflow-x: auto` at 7:28, unknown property.
+WARNING: Ignored `overflow-x: auto` at 143:3, unknown property.
+WARNING: Ignored `writing-mode: vertical-rl` at 293:3, unknown property.
+WARNING: Ignored `text-orientation: mixed` at 294:3, unknown property.
